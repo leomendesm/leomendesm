@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 💻 I'm a Software Developer and you can check my portfolio [here](https://leomendesm.github.io/) <br>
 🏡 Brazilian, Based in Caraguatatuba, SP - but dreams about traveling around the world one day 🌎 <br>
-🔭 I’m currently looking for a job and you can contact me at my email: leo.mi.me@gmail.com <br>
 ⚡ Fun fact: i stream sometimes, link to my channel at [twitch](https://www.twitch.tv/leomendesm) <br>
 
 ### last certifications:
