@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 💻 I'm a Software Developer and you can check my portfolio [here](https://leomendesm.github.io/) <br>
-🏡 Brazilian, Based in Caraguatatuba, SP - but dreams about traveling around the world one day 🌎 <br>
+🏡 Brazilian, Based in Caraguatatuba, SP <br>
 ⚡ Fun fact: i stream sometimes, link to my channel at [twitch](https://www.twitch.tv/leomendesm) <br>
 
 ### last certifications:
