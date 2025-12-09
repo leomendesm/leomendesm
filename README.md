@@ -24,9 +24,5 @@ Here are some ideas to get you started:
 - JS com TDD na Prática
 - Typescript: The Complete Developer's Guide [2020]
 - ReactJs ninja - React Completo
-### some of my github stats:
-
-
-<img width="480px" height="195px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomendesm&hide=html&layout=compact&theme=buefy" /> 
 
 
